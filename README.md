@@ -1,4 +1,4 @@
-# Project Name
+# Simple PoW blockchain in Rust
 
 A brief description of the project and its purpose.
 
